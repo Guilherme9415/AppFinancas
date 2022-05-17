@@ -4,5 +4,5 @@
 
 
 <div>
-     <img src="Screenshot.png"/>
+     <img src="foto.png"/>
 </div>
